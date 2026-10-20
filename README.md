@@ -37,7 +37,8 @@ Read [BUILD.md](BUILD.md) for the pinned SDK, one-command build, source layout,
 muted tests and integration protocol. The original native instructions remain
 in [BUILDING.md](BUILDING.md) and [README.upstream.md](README.upstream.md).
 
-The full restoration is on `codex/browser-restoration`. The small native
+The full restoration is on the default `master` branch and is also retained
+on `codex/browser-restoration`. The small native
 sound safety fix is isolated on `codex/missing-sound-chunk` and submitted as
 [upstream PR #33](https://github.com/Xenoveritas/abuse/pull/33);
 browser packaging and website integration are separate from that patch.
