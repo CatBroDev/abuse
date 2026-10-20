@@ -4,3 +4,8 @@
 # Ignore various backup files
 *.bak
 *~
+
+# Browser build and local test dependencies
+/build/
+/browser/node_modules/
+**/__pycache__/

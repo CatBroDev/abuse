@@ -1,0 +1,2 @@
+# Keep the corresponding browser source/data bytes stable across checkouts.
+browser/** -text

@@ -1,0 +1,350 @@
+{
+  "upstream": "https://github.com/Xenoveritas/abuse",
+  "upstreamCommit": "9d1f66f57377859bae10e28eabebea0b9c750490",
+  "production": "https://oldgamesarchive.org/games/abuse",
+  "productionZhCn": "https://oldgamesarchive.org/zh-cn/games/abuse",
+  "sourceArchive": "https://assets.oldgamesarchive.org/games/native/abuse/bfc53c4c82300a4e5c94effca39fe9e93ff1c44375a5856e9105a24c8284604d/source.zip",
+  "sourceArchiveSha256": "b2221fdd982a3e6a8aa408a73aef6178c6e26aa1a4edec9762a3a6400ede6553",
+  "files": [
+    {
+      "path": "browser/overrides/src/game.cpp",
+      "sha256": "997fdd941d0e632c3b1326ad099a59565d4a5cc13f20e97a09aea42e9e3b987f"
+    },
+    {
+      "path": "browser/overrides/src/sdlport/event.cpp",
+      "sha256": "708d237c65ec613e28e5afb7ae7169c8546e08a7d9e797542fc7d4db77606870"
+    },
+    {
+      "path": "browser/overrides/src/sdlport/sound.cpp",
+      "sha256": "f4d4c32aec7589ebf6a95b6e7915aa103718204f5ddf3c9e9eb94143697c5aad"
+    },
+    {
+      "path": "browser/web/bridge.js",
+      "sha256": "15b649fbeaf0653c710e91b0b260d240c2742eb1ed61835f9f335a9d5e91e692"
+    },
+    {
+      "path": "browser/web/browser-api.cpp",
+      "sha256": "06cc99fec89f251267b27878a5838da3f4ad1a096a91f2f84be5cc524ac374fa"
+    },
+    {
+      "path": "browser/web/index.html",
+      "sha256": "7e41268160c745d65dd3ad1d8b350f88404fccbee7b08e5803cc1c5c24683273"
+    },
+    {
+      "path": "browser/web/input.js",
+      "sha256": "43a1cadb743755ab7c1ff382fa8edd3306a7e223764ae9b818d8a01a93b296cb"
+    },
+    {
+      "path": "browser/web/persistence.js",
+      "sha256": "0d94fe0d8fdef1160faf3a3510f0b7745d9ca09d6842c8e63f6dbf504894454d"
+    },
+    {
+      "path": "browser/web/replacement-sounds.json",
+      "sha256": "a8aab3ebc64e31688f9734a5bdaade3d66eb9c9892385c11352598047b8343e1"
+    },
+    {
+      "path": "browser/replacement-data/licenses/audio-sources.json",
+      "sha256": "2d635921768d81ca5654291c7cbf177e5269f363925b6d1681281cb0692641fb"
+    },
+    {
+      "path": "browser/replacement-data/licenses/Freedoom-COPYING.txt",
+      "sha256": "ed60abcf1ff64bf61bf8b4c585ab63643d655a21f8997ba284c01f94ed681fc5"
+    },
+    {
+      "path": "browser/replacement-data/licenses/Freedoom-CREDITS.txt",
+      "sha256": "47333ff87236f69af6d5ac7e306e102913e944f91e199f7bde1dbb1074b5c67a"
+    },
+    {
+      "path": "browser/replacement-data/sfx/adie02.wav",
+      "sha256": "870895e2a3e69d7d6968076f787e373ed4ec67af5a20510a9af2c72fcddc66a5"
+    },
+    {
+      "path": "browser/replacement-data/sfx/adie03.wav",
+      "sha256": "7e7535dbb44502bdc74b8cb760cab46e8b6e70e50bb3b1e489961a77fb322aaa"
+    },
+    {
+      "path": "browser/replacement-data/sfx/adie05.wav",
+      "sha256": "102a501d5b0efcd5a21b544d3f50db96721621ad3cca3a68405c1ab0bb5d440b"
+    },
+    {
+      "path": "browser/replacement-data/sfx/ahit01.wav",
+      "sha256": "7433bb4943b45f4c415f4091d9e0dddcb2da726ff867316bd7f37b8dc80d4ab5"
+    },
+    {
+      "path": "browser/replacement-data/sfx/aland01.wav",
+      "sha256": "e9f5635e23de78f1311e6c1ba4cf2b3e1142c7ff190bfe2b023651d391ac2c21"
+    },
+    {
+      "path": "browser/replacement-data/sfx/alien01.wav",
+      "sha256": "004e710271feb41516cf817d29df2fffb802bf05c93b5d6a1cf1e8c443e46dae"
+    },
+    {
+      "path": "browser/replacement-data/sfx/amb07.wav",
+      "sha256": "871891bc852b739964b2cf14174605156335ff7b1e735c029daa27dd262801c8"
+    },
+    {
+      "path": "browser/replacement-data/sfx/amb10.wav",
+      "sha256": "8feed95e2ec5c1ae5f6ee0b13afcf5f8e842d1582c3fe5926fe0b3ce71a1bde7"
+    },
+    {
+      "path": "browser/replacement-data/sfx/amb11.wav",
+      "sha256": "60e075c4ac953c7339d54b099b68d7089c0d455f88cf203d8c314327be5fa379"
+    },
+    {
+      "path": "browser/replacement-data/sfx/amb13.wav",
+      "sha256": "91eb6f27b6b0b12a61ec37c0bae8265c757f4e8621b1df147eb5e0251a0829c1"
+    },
+    {
+      "path": "browser/replacement-data/sfx/amb16.wav",
+      "sha256": "8b9e60da207b77d269451e8940297e4dcebc6bc7d6a5bb54620a25d19c24039d"
+    },
+    {
+      "path": "browser/replacement-data/sfx/ambcave1.wav",
+      "sha256": "f940ff39137f4f907da7563d42007907310e1623c98d8ef20c8da33dfd2f1219"
+    },
+    {
+      "path": "browser/replacement-data/sfx/ambcave2.wav",
+      "sha256": "027ff76365e614ba0f046e2f813f87d246ecb0c07e50f1ff1de9a07e9c1f04a8"
+    },
+    {
+      "path": "browser/replacement-data/sfx/ambcave3.wav",
+      "sha256": "a8414e57eee75850d225e37d36887733a0fcb9952ae4edf90c0161f8047711f7"
+    },
+    {
+      "path": "browser/replacement-data/sfx/ambcave4.wav",
+      "sha256": "60eaceaeb1e5c7343077cc0fe0d2f7953c3f9da117e9e007ee711b4355dd6e68"
+    },
+    {
+      "path": "browser/replacement-data/sfx/ambfrst2.wav",
+      "sha256": "27fe0cc13c92dcb4dfa825aaff79bf86efc6f8f2c5bc2e11392aa6a27d3eb321"
+    },
+    {
+      "path": "browser/replacement-data/sfx/ambtech1.wav",
+      "sha256": "11014b97236037c0cf47f369118a8529c971ef9fe3a95c3427b71346a289ea45"
+    },
+    {
+      "path": "browser/replacement-data/sfx/ambtech2.wav",
+      "sha256": "d5b56cdb5d46c047cc61f7cbfec37bbfedcb12c4723b26ed711260fa47cb07f5"
+    },
+    {
+      "path": "browser/replacement-data/sfx/ambtech3.wav",
+      "sha256": "7f9925cc289bc5a59d25ae94ecea2e0593e498309d0b30ccb37c0d796a2888da"
+    },
+    {
+      "path": "browser/replacement-data/sfx/ammo01.wav",
+      "sha256": "7f5585a728a3a375624f3b02457d8e26632fe54a1f0dccee8fee6a81cba187d5"
+    },
+    {
+      "path": "browser/replacement-data/sfx/ammo02.wav",
+      "sha256": "c4819f2be09a75a3db4afdb872ea3966263ad248e8200dd1a09b37c82b737355"
+    },
+    {
+      "path": "browser/replacement-data/sfx/aslash01.wav",
+      "sha256": "432b1122d267b761ee10cee5b607d774d8b0257fff7b983eb27c5530744de164"
+    },
+    {
+      "path": "browser/replacement-data/sfx/ball01.wav",
+      "sha256": "2a78b58368924ec94d74e73fa2202064572244caa94459f6d15dbaafcc0e0b58"
+    },
+    {
+      "path": "browser/replacement-data/sfx/blkfoot4.wav",
+      "sha256": "d7fc52a678afd2c37a685e12237af357c9d1b38e5ca88c0a6a7d16e2609f725a"
+    },
+    {
+      "path": "browser/replacement-data/sfx/button02.wav",
+      "sha256": "427c2b9b5a80c586d8f0066a84216545aecb1b05a9ad4b762a4ccb09ef6fd2c4"
+    },
+    {
+      "path": "browser/replacement-data/sfx/cleaner.wav",
+      "sha256": "11014b97236037c0cf47f369118a8529c971ef9fe3a95c3427b71346a289ea45"
+    },
+    {
+      "path": "browser/replacement-data/sfx/crmble01.wav",
+      "sha256": "832fd642e8d95f6d12be139bb665129e44826d55f915ba596c5eb25a38d83951"
+    },
+    {
+      "path": "browser/replacement-data/sfx/delobj01.wav",
+      "sha256": "e67bc00b20868e39a6a4da1b2054ea3bc81d66ce74e86329ec880c3dfa06ad1d"
+    },
+    {
+      "path": "browser/replacement-data/sfx/doorup01.wav",
+      "sha256": "2ee12c1bb6ca2cd71836c806b5fbfafe4a3f6727382b28417173ad45766c196b"
+    },
+    {
+      "path": "browser/replacement-data/sfx/doorup02.wav",
+      "sha256": "0833925f545c3ce62d80ef8cfeaf467db7ef9fd27cb66f9d75fed4097c2e139a"
+    },
+    {
+      "path": "browser/replacement-data/sfx/eleacc01.wav",
+      "sha256": "7f9925cc289bc5a59d25ae94ecea2e0593e498309d0b30ccb37c0d796a2888da"
+    },
+    {
+      "path": "browser/replacement-data/sfx/elect02.wav",
+      "sha256": "80f2fe1ca70e615f8c328b814a64326e9b51992ed440d7b1632cf7b559f2f631"
+    },
+    {
+      "path": "browser/replacement-data/sfx/eledec01.wav",
+      "sha256": "63706dd4c783926a756561693bf4c59fd04d89cbcbe482862db7d18aa664eab9"
+    },
+    {
+      "path": "browser/replacement-data/sfx/endlvl02.wav",
+      "sha256": "5e91dd25d7c82585bbac762596047ecb0d1667fd0993b7948c791b8e6d919751"
+    },
+    {
+      "path": "browser/replacement-data/sfx/fadeon01.wav",
+      "sha256": "7131aa29f439579f65983e4365cb704d18ca295cb0f73062b9fbeade0ab55804"
+    },
+    {
+      "path": "browser/replacement-data/sfx/firebmb1.wav",
+      "sha256": "742a5cf62dba8211409bbe759174d70dc094c3d717382977401bfbfb19363012"
+    },
+    {
+      "path": "browser/replacement-data/sfx/fly03.wav",
+      "sha256": "5e91dd25d7c82585bbac762596047ecb0d1667fd0993b7948c791b8e6d919751"
+    },
+    {
+      "path": "browser/replacement-data/sfx/force01.wav",
+      "sha256": "12248b6e82c94c0715a8a8ae5bbd965c0ceec77aeb647e489607578723f9b2cf"
+    },
+    {
+      "path": "browser/replacement-data/sfx/grenad01.wav",
+      "sha256": "56b91c232529d0802198a25bb03e23689b26cb116a435d2f3e752e6df5b197a1"
+    },
+    {
+      "path": "browser/replacement-data/sfx/health01.wav",
+      "sha256": "d7432219b669b472dd3904567329451003fd9adbb192f305778123ebedb0b6c6"
+    },
+    {
+      "path": "browser/replacement-data/sfx/lasrmis2.wav",
+      "sha256": "e67bc00b20868e39a6a4da1b2054ea3bc81d66ce74e86329ec880c3dfa06ad1d"
+    },
+    {
+      "path": "browser/replacement-data/sfx/lava01.wav",
+      "sha256": "4292d0a6dad85e4b1d7bb4ef8638ef3ee2417438b8093311d3307864135bd6fc"
+    },
+    {
+      "path": "browser/replacement-data/sfx/link01.wav",
+      "sha256": "ca11fdc279f3d1ac26a3c125dc077a930147e2a385931da4a392e83cf4b44b0f"
+    },
+    {
+      "path": "browser/replacement-data/sfx/logo09.wav",
+      "sha256": "5e91dd25d7c82585bbac762596047ecb0d1667fd0993b7948c791b8e6d919751"
+    },
+    {
+      "path": "browser/replacement-data/sfx/mghit01.wav",
+      "sha256": "3ed7d4ba89463598ecf6c85ed6c1d5e7f27ad1afac824b77bdc66d38f566aad1"
+    },
+    {
+      "path": "browser/replacement-data/sfx/mghit02.wav",
+      "sha256": "e67bc00b20868e39a6a4da1b2054ea3bc81d66ce74e86329ec880c3dfa06ad1d"
+    },
+    {
+      "path": "browser/replacement-data/sfx/plasma02.wav",
+      "sha256": "4d0abe932c8f5a1754f1dd12233b80e0b4ff55964747b928e4c3f7f76bfba15f"
+    },
+    {
+      "path": "browser/replacement-data/sfx/plasma03.wav",
+      "sha256": "c4819f2be09a75a3db4afdb872ea3966263ad248e8200dd1a09b37c82b737355"
+    },
+    {
+      "path": "browser/replacement-data/sfx/pldeth02.wav",
+      "sha256": "8ae66da57f8305dd147c09eafc07d130375f3e7d79200ceb550cda27c3494990"
+    },
+    {
+      "path": "browser/replacement-data/sfx/pldeth04.wav",
+      "sha256": "bd054e396d1b93bf53b1efc74c2179a49daea3f9007e10849ce491eb5e81084f"
+    },
+    {
+      "path": "browser/replacement-data/sfx/pldeth05.wav",
+      "sha256": "8ae66da57f8305dd147c09eafc07d130375f3e7d79200ceb550cda27c3494990"
+    },
+    {
+      "path": "browser/replacement-data/sfx/pldeth07.wav",
+      "sha256": "bd054e396d1b93bf53b1efc74c2179a49daea3f9007e10849ce491eb5e81084f"
+    },
+    {
+      "path": "browser/replacement-data/sfx/plpain01.wav",
+      "sha256": "840372b2cc59e4e42ffb76bc0c06ab89fca9ac25e31ce475cb5751c16916f2eb"
+    },
+    {
+      "path": "browser/replacement-data/sfx/plpain02.wav",
+      "sha256": "eb62ebfffa2cb55d410053833724835ee07a6776e24c7e26bbb86b678a146794"
+    },
+    {
+      "path": "browser/replacement-data/sfx/plpain04.wav",
+      "sha256": "6f339d1cf5a98e294bc23974c59f9b013d9549e91984838c6e3034ade7fd7cad"
+    },
+    {
+      "path": "browser/replacement-data/sfx/plpain10.wav",
+      "sha256": "eca5734b7dcebe9bc6b548996c391149d44a36fa6e62da56e81e2bf5d89ba2db"
+    },
+    {
+      "path": "browser/replacement-data/sfx/poof05.wav",
+      "sha256": "742a5cf62dba8211409bbe759174d70dc094c3d717382977401bfbfb19363012"
+    },
+    {
+      "path": "browser/replacement-data/sfx/poof06.wav",
+      "sha256": "832fd642e8d95f6d12be139bb665129e44826d55f915ba596c5eb25a38d83951"
+    },
+    {
+      "path": "browser/replacement-data/sfx/robot02.wav",
+      "sha256": "11014b97236037c0cf47f369118a8529c971ef9fe3a95c3427b71346a289ea45"
+    },
+    {
+      "path": "browser/replacement-data/sfx/rocket02.wav",
+      "sha256": "fa00d7f1f7d5bcb2cb9087a6908ca310fa37ee79d46fc9e3a7fc714ec1b639f0"
+    },
+    {
+      "path": "browser/replacement-data/sfx/save05.wav",
+      "sha256": "5e91dd25d7c82585bbac762596047ecb0d1667fd0993b7948c791b8e6d919751"
+    },
+    {
+      "path": "browser/replacement-data/sfx/scream02.wav",
+      "sha256": "79709f356d0622b05139802bd2348ff248455c55456acc99b5374651b5a7c0e4"
+    },
+    {
+      "path": "browser/replacement-data/sfx/scream03.wav",
+      "sha256": "395d8b3aa5577f27f59e6c02fd44d65f0dffa491aaff49fc33ef005ac19b6359"
+    },
+    {
+      "path": "browser/replacement-data/sfx/scream08.wav",
+      "sha256": "34e695bbdda0bb70130e623132a280ba3254291056d173259abea5cd416d9d4e"
+    },
+    {
+      "path": "browser/replacement-data/sfx/speed02.wav",
+      "sha256": "7131aa29f439579f65983e4365cb704d18ca295cb0f73062b9fbeade0ab55804"
+    },
+    {
+      "path": "browser/replacement-data/sfx/spring03.wav",
+      "sha256": "0429c84496cdad1bc0f68d394e82748ce3a643579f7b105e2b0cd87f90e780fc"
+    },
+    {
+      "path": "browser/replacement-data/sfx/swish01.wav",
+      "sha256": "7e8b2314a58b63e43a1eca1051d3f42ac0c7193e9bdb31cfdc7019db436e18c7"
+    },
+    {
+      "path": "browser/replacement-data/sfx/switch01.wav",
+      "sha256": "ca11fdc279f3d1ac26a3c125dc077a930147e2a385931da4a392e83cf4b44b0f"
+    },
+    {
+      "path": "browser/replacement-data/sfx/telept01.wav",
+      "sha256": "8b9e60da207b77d269451e8940297e4dcebc6bc7d6a5bb54620a25d19c24039d"
+    },
+    {
+      "path": "browser/replacement-data/sfx/throw01.wav",
+      "sha256": "7e8b2314a58b63e43a1eca1051d3f42ac0c7193e9bdb31cfdc7019db436e18c7"
+    },
+    {
+      "path": "browser/replacement-data/sfx/timerfst.wav",
+      "sha256": "e67bc00b20868e39a6a4da1b2054ea3bc81d66ce74e86329ec880c3dfa06ad1d"
+    },
+    {
+      "path": "browser/replacement-data/sfx/zap2.wav",
+      "sha256": "c4819f2be09a75a3db4afdb872ea3966263ad248e8200dd1a09b37c82b737355"
+    },
+    {
+      "path": "browser/replacement-data/sfx/zap3.wav",
+      "sha256": "2a78b58368924ec94d74e73fa2202064572244caa94459f6d15dbaafcc0e0b58"
+    }
+  ]
+}

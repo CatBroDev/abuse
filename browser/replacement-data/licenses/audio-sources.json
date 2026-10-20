@@ -1,0 +1,519 @@
+{
+  "source": "https://github.com/freedoom/freedoom",
+  "revision": "3ac019628d70b812ffb722f7f2365771b76a9d29",
+  "license": "BSD-3-Clause",
+  "notice": "Replacement sound effects from Freedoom contributors. These are not the original Abuse recordings. No original music is included.",
+  "files": [
+    {
+      "path": "sfx/adie02.wav",
+      "source": "https://raw.githubusercontent.com/freedoom/freedoom/3ac019628d70b812ffb722f7f2365771b76a9d29/sounds/dsbgdth1.wav",
+      "bytes": 9341,
+      "sha256": "870895e2a3e69d7d6968076f787e373ed4ec67af5a20510a9af2c72fcddc66a5",
+      "modification": "Filename mapping only; WAV bytes unchanged."
+    },
+    {
+      "path": "sfx/adie03.wav",
+      "source": "https://raw.githubusercontent.com/freedoom/freedoom/3ac019628d70b812ffb722f7f2365771b76a9d29/sounds/dsbgdth2.wav",
+      "bytes": 8759,
+      "sha256": "7e7535dbb44502bdc74b8cb760cab46e8b6e70e50bb3b1e489961a77fb322aaa",
+      "modification": "Filename mapping only; WAV bytes unchanged."
+    },
+    {
+      "path": "sfx/adie05.wav",
+      "source": "https://raw.githubusercontent.com/freedoom/freedoom/3ac019628d70b812ffb722f7f2365771b76a9d29/sounds/dspodth1.wav",
+      "bytes": 37160,
+      "sha256": "102a501d5b0efcd5a21b544d3f50db96721621ad3cca3a68405c1ab0bb5d440b",
+      "modification": "Filename mapping only; WAV bytes unchanged."
+    },
+    {
+      "path": "sfx/ahit01.wav",
+      "source": "https://raw.githubusercontent.com/freedoom/freedoom/3ac019628d70b812ffb722f7f2365771b76a9d29/sounds/dspopain.wav",
+      "bytes": 4652,
+      "sha256": "7433bb4943b45f4c415f4091d9e0dddcb2da726ff867316bd7f37b8dc80d4ab5",
+      "modification": "Filename mapping only; WAV bytes unchanged."
+    },
+    {
+      "path": "sfx/aland01.wav",
+      "source": "https://raw.githubusercontent.com/freedoom/freedoom/3ac019628d70b812ffb722f7f2365771b76a9d29/sounds/dshoof.wav",
+      "bytes": 14037,
+      "sha256": "e9f5635e23de78f1311e6c1ba4cf2b3e1142c7ff190bfe2b023651d391ac2c21",
+      "modification": "Filename mapping only; WAV bytes unchanged."
+    },
+    {
+      "path": "sfx/alien01.wav",
+      "source": "https://raw.githubusercontent.com/freedoom/freedoom/3ac019628d70b812ffb722f7f2365771b76a9d29/sounds/dsbrssit.wav",
+      "bytes": 110524,
+      "sha256": "004e710271feb41516cf817d29df2fffb802bf05c93b5d6a1cf1e8c443e46dae",
+      "modification": "Filename mapping only; WAV bytes unchanged."
+    },
+    {
+      "path": "sfx/amb07.wav",
+      "source": "https://raw.githubusercontent.com/freedoom/freedoom/3ac019628d70b812ffb722f7f2365771b76a9d29/sounds/dsbgsit1.wav",
+      "bytes": 8598,
+      "sha256": "871891bc852b739964b2cf14174605156335ff7b1e735c029daa27dd262801c8",
+      "modification": "Filename mapping only; WAV bytes unchanged."
+    },
+    {
+      "path": "sfx/amb10.wav",
+      "source": "https://raw.githubusercontent.com/freedoom/freedoom/3ac019628d70b812ffb722f7f2365771b76a9d29/sounds/dsdmact.wav",
+      "bytes": 31100,
+      "sha256": "8feed95e2ec5c1ae5f6ee0b13afcf5f8e842d1582c3fe5926fe0b3ce71a1bde7",
+      "modification": "Filename mapping only; WAV bytes unchanged."
+    },
+    {
+      "path": "sfx/amb11.wav",
+      "source": "https://raw.githubusercontent.com/freedoom/freedoom/3ac019628d70b812ffb722f7f2365771b76a9d29/sounds/dsbgact.wav",
+      "bytes": 10732,
+      "sha256": "60e075c4ac953c7339d54b099b68d7089c0d455f88cf203d8c314327be5fa379",
+      "modification": "Filename mapping only; WAV bytes unchanged."
+    },
+    {
+      "path": "sfx/amb13.wav",
+      "source": "https://raw.githubusercontent.com/freedoom/freedoom/3ac019628d70b812ffb722f7f2365771b76a9d29/sounds/dscacsit.wav",
+      "bytes": 26716,
+      "sha256": "91eb6f27b6b0b12a61ec37c0bae8265c757f4e8621b1df147eb5e0251a0829c1",
+      "modification": "Filename mapping only; WAV bytes unchanged."
+    },
+    {
+      "path": "sfx/amb16.wav",
+      "source": "https://raw.githubusercontent.com/freedoom/freedoom/3ac019628d70b812ffb722f7f2365771b76a9d29/sounds/dstelept.wav",
+      "bytes": 23794,
+      "sha256": "8b9e60da207b77d269451e8940297e4dcebc6bc7d6a5bb54620a25d19c24039d",
+      "modification": "Filename mapping only; WAV bytes unchanged."
+    },
+    {
+      "path": "sfx/ambcave1.wav",
+      "source": "https://raw.githubusercontent.com/freedoom/freedoom/3ac019628d70b812ffb722f7f2365771b76a9d29/sounds/dsbspact.wav",
+      "bytes": 13416,
+      "sha256": "f940ff39137f4f907da7563d42007907310e1623c98d8ef20c8da33dfd2f1219",
+      "modification": "Filename mapping only; WAV bytes unchanged."
+    },
+    {
+      "path": "sfx/ambcave2.wav",
+      "source": "https://raw.githubusercontent.com/freedoom/freedoom/3ac019628d70b812ffb722f7f2365771b76a9d29/sounds/dsskeact.wav",
+      "bytes": 67116,
+      "sha256": "027ff76365e614ba0f046e2f813f87d246ecb0c07e50f1ff1de9a07e9c1f04a8",
+      "modification": "Filename mapping only; WAV bytes unchanged."
+    },
+    {
+      "path": "sfx/ambcave3.wav",
+      "source": "https://raw.githubusercontent.com/freedoom/freedoom/3ac019628d70b812ffb722f7f2365771b76a9d29/sounds/dsposact.wav",
+      "bytes": 31084,
+      "sha256": "a8414e57eee75850d225e37d36887733a0fcb9952ae4edf90c0161f8047711f7",
+      "modification": "Filename mapping only; WAV bytes unchanged."
+    },
+    {
+      "path": "sfx/ambcave4.wav",
+      "source": "https://raw.githubusercontent.com/freedoom/freedoom/3ac019628d70b812ffb722f7f2365771b76a9d29/sounds/dsvilact.wav",
+      "bytes": 22672,
+      "sha256": "60eaceaeb1e5c7343077cc0fe0d2f7953c3f9da117e9e007ee711b4355dd6e68",
+      "modification": "Filename mapping only; WAV bytes unchanged."
+    },
+    {
+      "path": "sfx/ambfrst2.wav",
+      "source": "https://raw.githubusercontent.com/freedoom/freedoom/3ac019628d70b812ffb722f7f2365771b76a9d29/sounds/dsskesit.wav",
+      "bytes": 44512,
+      "sha256": "27fe0cc13c92dcb4dfa825aaff79bf86efc6f8f2c5bc2e11392aa6a27d3eb321",
+      "modification": "Filename mapping only; WAV bytes unchanged."
+    },
+    {
+      "path": "sfx/ambtech1.wav",
+      "source": "https://raw.githubusercontent.com/freedoom/freedoom/3ac019628d70b812ffb722f7f2365771b76a9d29/sounds/dsstnmov.wav",
+      "bytes": 3084,
+      "sha256": "11014b97236037c0cf47f369118a8529c971ef9fe3a95c3427b71346a289ea45",
+      "modification": "Filename mapping only; WAV bytes unchanged."
+    },
+    {
+      "path": "sfx/ambtech2.wav",
+      "source": "https://raw.githubusercontent.com/freedoom/freedoom/3ac019628d70b812ffb722f7f2365771b76a9d29/sounds/dssawidl.wav",
+      "bytes": 20330,
+      "sha256": "d5b56cdb5d46c047cc61f7cbfec37bbfedcb12c4723b26ed711260fa47cb07f5",
+      "modification": "Filename mapping only; WAV bytes unchanged."
+    },
+    {
+      "path": "sfx/ambtech3.wav",
+      "source": "https://raw.githubusercontent.com/freedoom/freedoom/3ac019628d70b812ffb722f7f2365771b76a9d29/sounds/dspstart.wav",
+      "bytes": 26610,
+      "sha256": "7f9925cc289bc5a59d25ae94ecea2e0593e498309d0b30ccb37c0d796a2888da",
+      "modification": "Filename mapping only; WAV bytes unchanged."
+    },
+    {
+      "path": "sfx/ammo01.wav",
+      "source": "https://raw.githubusercontent.com/freedoom/freedoom/3ac019628d70b812ffb722f7f2365771b76a9d29/sounds/dswpnup.wav",
+      "bytes": 5850,
+      "sha256": "7f5585a728a3a375624f3b02457d8e26632fe54a1f0dccee8fee6a81cba187d5",
+      "modification": "Filename mapping only; WAV bytes unchanged."
+    },
+    {
+      "path": "sfx/ammo02.wav",
+      "source": "https://raw.githubusercontent.com/freedoom/freedoom/3ac019628d70b812ffb722f7f2365771b76a9d29/sounds/dsplasma.wav",
+      "bytes": 28760,
+      "sha256": "c4819f2be09a75a3db4afdb872ea3966263ad248e8200dd1a09b37c82b737355",
+      "modification": "Filename mapping only; WAV bytes unchanged."
+    },
+    {
+      "path": "sfx/aslash01.wav",
+      "source": "https://raw.githubusercontent.com/freedoom/freedoom/3ac019628d70b812ffb722f7f2365771b76a9d29/sounds/dsclaw.wav",
+      "bytes": 9679,
+      "sha256": "432b1122d267b761ee10cee5b607d774d8b0257fff7b983eb27c5530744de164",
+      "modification": "Filename mapping only; WAV bytes unchanged."
+    },
+    {
+      "path": "sfx/ball01.wav",
+      "source": "https://raw.githubusercontent.com/freedoom/freedoom/3ac019628d70b812ffb722f7f2365771b76a9d29/sounds/dsfirsht.wav",
+      "bytes": 44053,
+      "sha256": "2a78b58368924ec94d74e73fa2202064572244caa94459f6d15dbaafcc0e0b58",
+      "modification": "Filename mapping only; WAV bytes unchanged."
+    },
+    {
+      "path": "sfx/blkfoot4.wav",
+      "source": "https://raw.githubusercontent.com/freedoom/freedoom/3ac019628d70b812ffb722f7f2365771b76a9d29/sounds/dsmetal.wav",
+      "bytes": 8116,
+      "sha256": "d7fc52a678afd2c37a685e12237af357c9d1b38e5ca88c0a6a7d16e2609f725a",
+      "modification": "Filename mapping only; WAV bytes unchanged."
+    },
+    {
+      "path": "sfx/button02.wav",
+      "source": "https://raw.githubusercontent.com/freedoom/freedoom/3ac019628d70b812ffb722f7f2365771b76a9d29/sounds/dsswtchx.wav",
+      "bytes": 8574,
+      "sha256": "427c2b9b5a80c586d8f0066a84216545aecb1b05a9ad4b762a4ccb09ef6fd2c4",
+      "modification": "Filename mapping only; WAV bytes unchanged."
+    },
+    {
+      "path": "sfx/cleaner.wav",
+      "source": "https://raw.githubusercontent.com/freedoom/freedoom/3ac019628d70b812ffb722f7f2365771b76a9d29/sounds/dsstnmov.wav",
+      "bytes": 3084,
+      "sha256": "11014b97236037c0cf47f369118a8529c971ef9fe3a95c3427b71346a289ea45",
+      "modification": "Filename mapping only; WAV bytes unchanged."
+    },
+    {
+      "path": "sfx/crmble01.wav",
+      "source": "https://raw.githubusercontent.com/freedoom/freedoom/3ac019628d70b812ffb722f7f2365771b76a9d29/sounds/dsbarexp.wav",
+      "bytes": 22502,
+      "sha256": "832fd642e8d95f6d12be139bb665129e44826d55f915ba596c5eb25a38d83951",
+      "modification": "Filename mapping only; WAV bytes unchanged."
+    },
+    {
+      "path": "sfx/delobj01.wav",
+      "source": "https://raw.githubusercontent.com/freedoom/freedoom/3ac019628d70b812ffb722f7f2365771b76a9d29/sounds/dstink.wav",
+      "bytes": 2750,
+      "sha256": "e67bc00b20868e39a6a4da1b2054ea3bc81d66ce74e86329ec880c3dfa06ad1d",
+      "modification": "Filename mapping only; WAV bytes unchanged."
+    },
+    {
+      "path": "sfx/doorup01.wav",
+      "source": "https://raw.githubusercontent.com/freedoom/freedoom/3ac019628d70b812ffb722f7f2365771b76a9d29/sounds/dsdoropn.wav",
+      "bytes": 36490,
+      "sha256": "2ee12c1bb6ca2cd71836c806b5fbfafe4a3f6727382b28417173ad45766c196b",
+      "modification": "Filename mapping only; WAV bytes unchanged."
+    },
+    {
+      "path": "sfx/doorup02.wav",
+      "source": "https://raw.githubusercontent.com/freedoom/freedoom/3ac019628d70b812ffb722f7f2365771b76a9d29/sounds/dsdorcls.wav",
+      "bytes": 36770,
+      "sha256": "0833925f545c3ce62d80ef8cfeaf467db7ef9fd27cb66f9d75fed4097c2e139a",
+      "modification": "Filename mapping only; WAV bytes unchanged."
+    },
+    {
+      "path": "sfx/eleacc01.wav",
+      "source": "https://raw.githubusercontent.com/freedoom/freedoom/3ac019628d70b812ffb722f7f2365771b76a9d29/sounds/dspstart.wav",
+      "bytes": 26610,
+      "sha256": "7f9925cc289bc5a59d25ae94ecea2e0593e498309d0b30ccb37c0d796a2888da",
+      "modification": "Filename mapping only; WAV bytes unchanged."
+    },
+    {
+      "path": "sfx/elect02.wav",
+      "source": "https://raw.githubusercontent.com/freedoom/freedoom/3ac019628d70b812ffb722f7f2365771b76a9d29/sounds/dssawhit.wav",
+      "bytes": 4947,
+      "sha256": "80f2fe1ca70e615f8c328b814a64326e9b51992ed440d7b1632cf7b559f2f631",
+      "modification": "Filename mapping only; WAV bytes unchanged."
+    },
+    {
+      "path": "sfx/eledec01.wav",
+      "source": "https://raw.githubusercontent.com/freedoom/freedoom/3ac019628d70b812ffb722f7f2365771b76a9d29/sounds/dspstop.wav",
+      "bytes": 24486,
+      "sha256": "63706dd4c783926a756561693bf4c59fd04d89cbcbe482862db7d18aa664eab9",
+      "modification": "Filename mapping only; WAV bytes unchanged."
+    },
+    {
+      "path": "sfx/endlvl02.wav",
+      "source": "https://raw.githubusercontent.com/freedoom/freedoom/3ac019628d70b812ffb722f7f2365771b76a9d29/sounds/dsgetpow.wav",
+      "bytes": 4630,
+      "sha256": "5e91dd25d7c82585bbac762596047ecb0d1667fd0993b7948c791b8e6d919751",
+      "modification": "Filename mapping only; WAV bytes unchanged."
+    },
+    {
+      "path": "sfx/fadeon01.wav",
+      "source": "https://raw.githubusercontent.com/freedoom/freedoom/3ac019628d70b812ffb722f7f2365771b76a9d29/sounds/dsitmbk.wav",
+      "bytes": 15682,
+      "sha256": "7131aa29f439579f65983e4365cb704d18ca295cb0f73062b9fbeade0ab55804",
+      "modification": "Filename mapping only; WAV bytes unchanged."
+    },
+    {
+      "path": "sfx/firebmb1.wav",
+      "source": "https://raw.githubusercontent.com/freedoom/freedoom/3ac019628d70b812ffb722f7f2365771b76a9d29/sounds/dsfirxpl.wav",
+      "bytes": 22549,
+      "sha256": "742a5cf62dba8211409bbe759174d70dc094c3d717382977401bfbfb19363012",
+      "modification": "Filename mapping only; WAV bytes unchanged."
+    },
+    {
+      "path": "sfx/fly03.wav",
+      "source": "https://raw.githubusercontent.com/freedoom/freedoom/3ac019628d70b812ffb722f7f2365771b76a9d29/sounds/dsgetpow.wav",
+      "bytes": 4630,
+      "sha256": "5e91dd25d7c82585bbac762596047ecb0d1667fd0993b7948c791b8e6d919751",
+      "modification": "Filename mapping only; WAV bytes unchanged."
+    },
+    {
+      "path": "sfx/force01.wav",
+      "source": "https://raw.githubusercontent.com/freedoom/freedoom/3ac019628d70b812ffb722f7f2365771b76a9d29/sounds/dsboscub.wav",
+      "bytes": 28954,
+      "sha256": "12248b6e82c94c0715a8a8ae5bbd965c0ceec77aeb647e489607578723f9b2cf",
+      "modification": "Filename mapping only; WAV bytes unchanged."
+    },
+    {
+      "path": "sfx/grenad01.wav",
+      "source": "https://raw.githubusercontent.com/freedoom/freedoom/3ac019628d70b812ffb722f7f2365771b76a9d29/sounds/dsrxplod.wav",
+      "bytes": 43666,
+      "sha256": "56b91c232529d0802198a25bb03e23689b26cb116a435d2f3e752e6df5b197a1",
+      "modification": "Filename mapping only; WAV bytes unchanged."
+    },
+    {
+      "path": "sfx/health01.wav",
+      "source": "https://raw.githubusercontent.com/freedoom/freedoom/3ac019628d70b812ffb722f7f2365771b76a9d29/sounds/dsitemup.wav",
+      "bytes": 2249,
+      "sha256": "d7432219b669b472dd3904567329451003fd9adbb192f305778123ebedb0b6c6",
+      "modification": "Filename mapping only; WAV bytes unchanged."
+    },
+    {
+      "path": "sfx/lasrmis2.wav",
+      "source": "https://raw.githubusercontent.com/freedoom/freedoom/3ac019628d70b812ffb722f7f2365771b76a9d29/sounds/dstink.wav",
+      "bytes": 2750,
+      "sha256": "e67bc00b20868e39a6a4da1b2054ea3bc81d66ce74e86329ec880c3dfa06ad1d",
+      "modification": "Filename mapping only; WAV bytes unchanged."
+    },
+    {
+      "path": "sfx/lava01.wav",
+      "source": "https://raw.githubusercontent.com/freedoom/freedoom/3ac019628d70b812ffb722f7f2365771b76a9d29/sounds/dsflame.wav",
+      "bytes": 11502,
+      "sha256": "4292d0a6dad85e4b1d7bb4ef8638ef3ee2417438b8093311d3307864135bd6fc",
+      "modification": "Filename mapping only; WAV bytes unchanged."
+    },
+    {
+      "path": "sfx/link01.wav",
+      "source": "https://raw.githubusercontent.com/freedoom/freedoom/3ac019628d70b812ffb722f7f2365771b76a9d29/sounds/dsswtchn.wav",
+      "bytes": 18048,
+      "sha256": "ca11fdc279f3d1ac26a3c125dc077a930147e2a385931da4a392e83cf4b44b0f",
+      "modification": "Filename mapping only; WAV bytes unchanged."
+    },
+    {
+      "path": "sfx/logo09.wav",
+      "source": "https://raw.githubusercontent.com/freedoom/freedoom/3ac019628d70b812ffb722f7f2365771b76a9d29/sounds/dsgetpow.wav",
+      "bytes": 4630,
+      "sha256": "5e91dd25d7c82585bbac762596047ecb0d1667fd0993b7948c791b8e6d919751",
+      "modification": "Filename mapping only; WAV bytes unchanged."
+    },
+    {
+      "path": "sfx/mghit01.wav",
+      "source": "https://raw.githubusercontent.com/freedoom/freedoom/3ac019628d70b812ffb722f7f2365771b76a9d29/sounds/dspunch.wav",
+      "bytes": 7450,
+      "sha256": "3ed7d4ba89463598ecf6c85ed6c1d5e7f27ad1afac824b77bdc66d38f566aad1",
+      "modification": "Filename mapping only; WAV bytes unchanged."
+    },
+    {
+      "path": "sfx/mghit02.wav",
+      "source": "https://raw.githubusercontent.com/freedoom/freedoom/3ac019628d70b812ffb722f7f2365771b76a9d29/sounds/dstink.wav",
+      "bytes": 2750,
+      "sha256": "e67bc00b20868e39a6a4da1b2054ea3bc81d66ce74e86329ec880c3dfa06ad1d",
+      "modification": "Filename mapping only; WAV bytes unchanged."
+    },
+    {
+      "path": "sfx/plasma02.wav",
+      "source": "https://raw.githubusercontent.com/freedoom/freedoom/3ac019628d70b812ffb722f7f2365771b76a9d29/sounds/dsbfg.wav",
+      "bytes": 38418,
+      "sha256": "4d0abe932c8f5a1754f1dd12233b80e0b4ff55964747b928e4c3f7f76bfba15f",
+      "modification": "Filename mapping only; WAV bytes unchanged."
+    },
+    {
+      "path": "sfx/plasma03.wav",
+      "source": "https://raw.githubusercontent.com/freedoom/freedoom/3ac019628d70b812ffb722f7f2365771b76a9d29/sounds/dsplasma.wav",
+      "bytes": 28760,
+      "sha256": "c4819f2be09a75a3db4afdb872ea3966263ad248e8200dd1a09b37c82b737355",
+      "modification": "Filename mapping only; WAV bytes unchanged."
+    },
+    {
+      "path": "sfx/pldeth02.wav",
+      "source": "https://raw.githubusercontent.com/freedoom/freedoom/3ac019628d70b812ffb722f7f2365771b76a9d29/sounds/dspdiehi.wav",
+      "bytes": 8945,
+      "sha256": "8ae66da57f8305dd147c09eafc07d130375f3e7d79200ceb550cda27c3494990",
+      "modification": "Filename mapping only; WAV bytes unchanged."
+    },
+    {
+      "path": "sfx/pldeth04.wav",
+      "source": "https://raw.githubusercontent.com/freedoom/freedoom/3ac019628d70b812ffb722f7f2365771b76a9d29/sounds/dspldeth.wav",
+      "bytes": 8317,
+      "sha256": "bd054e396d1b93bf53b1efc74c2179a49daea3f9007e10849ce491eb5e81084f",
+      "modification": "Filename mapping only; WAV bytes unchanged."
+    },
+    {
+      "path": "sfx/pldeth05.wav",
+      "source": "https://raw.githubusercontent.com/freedoom/freedoom/3ac019628d70b812ffb722f7f2365771b76a9d29/sounds/dspdiehi.wav",
+      "bytes": 8945,
+      "sha256": "8ae66da57f8305dd147c09eafc07d130375f3e7d79200ceb550cda27c3494990",
+      "modification": "Filename mapping only; WAV bytes unchanged."
+    },
+    {
+      "path": "sfx/pldeth07.wav",
+      "source": "https://raw.githubusercontent.com/freedoom/freedoom/3ac019628d70b812ffb722f7f2365771b76a9d29/sounds/dspldeth.wav",
+      "bytes": 8317,
+      "sha256": "bd054e396d1b93bf53b1efc74c2179a49daea3f9007e10849ce491eb5e81084f",
+      "modification": "Filename mapping only; WAV bytes unchanged."
+    },
+    {
+      "path": "sfx/plpain01.wav",
+      "source": "https://raw.githubusercontent.com/freedoom/freedoom/3ac019628d70b812ffb722f7f2365771b76a9d29/sounds/dsoof.wav",
+      "bytes": 7920,
+      "sha256": "840372b2cc59e4e42ffb76bc0c06ab89fca9ac25e31ce475cb5751c16916f2eb",
+      "modification": "Filename mapping only; WAV bytes unchanged."
+    },
+    {
+      "path": "sfx/plpain02.wav",
+      "source": "https://raw.githubusercontent.com/freedoom/freedoom/3ac019628d70b812ffb722f7f2365771b76a9d29/sounds/dsplpain.wav",
+      "bytes": 17924,
+      "sha256": "eb62ebfffa2cb55d410053833724835ee07a6776e24c7e26bbb86b678a146794",
+      "modification": "Filename mapping only; WAV bytes unchanged."
+    },
+    {
+      "path": "sfx/plpain04.wav",
+      "source": "https://raw.githubusercontent.com/freedoom/freedoom/3ac019628d70b812ffb722f7f2365771b76a9d29/sounds/dsouch.wav",
+      "bytes": 10518,
+      "sha256": "6f339d1cf5a98e294bc23974c59f9b013d9549e91984838c6e3034ade7fd7cad",
+      "modification": "Filename mapping only; WAV bytes unchanged."
+    },
+    {
+      "path": "sfx/plpain10.wav",
+      "source": "https://raw.githubusercontent.com/freedoom/freedoom/3ac019628d70b812ffb722f7f2365771b76a9d29/sounds/dsnoway.wav",
+      "bytes": 8574,
+      "sha256": "eca5734b7dcebe9bc6b548996c391149d44a36fa6e62da56e81e2bf5d89ba2db",
+      "modification": "Filename mapping only; WAV bytes unchanged."
+    },
+    {
+      "path": "sfx/poof05.wav",
+      "source": "https://raw.githubusercontent.com/freedoom/freedoom/3ac019628d70b812ffb722f7f2365771b76a9d29/sounds/dsfirxpl.wav",
+      "bytes": 22549,
+      "sha256": "742a5cf62dba8211409bbe759174d70dc094c3d717382977401bfbfb19363012",
+      "modification": "Filename mapping only; WAV bytes unchanged."
+    },
+    {
+      "path": "sfx/poof06.wav",
+      "source": "https://raw.githubusercontent.com/freedoom/freedoom/3ac019628d70b812ffb722f7f2365771b76a9d29/sounds/dsbarexp.wav",
+      "bytes": 22502,
+      "sha256": "832fd642e8d95f6d12be139bb665129e44826d55f915ba596c5eb25a38d83951",
+      "modification": "Filename mapping only; WAV bytes unchanged."
+    },
+    {
+      "path": "sfx/robot02.wav",
+      "source": "https://raw.githubusercontent.com/freedoom/freedoom/3ac019628d70b812ffb722f7f2365771b76a9d29/sounds/dsstnmov.wav",
+      "bytes": 3084,
+      "sha256": "11014b97236037c0cf47f369118a8529c971ef9fe3a95c3427b71346a289ea45",
+      "modification": "Filename mapping only; WAV bytes unchanged."
+    },
+    {
+      "path": "sfx/rocket02.wav",
+      "source": "https://raw.githubusercontent.com/freedoom/freedoom/3ac019628d70b812ffb722f7f2365771b76a9d29/sounds/dsrlaunc.wav",
+      "bytes": 19730,
+      "sha256": "fa00d7f1f7d5bcb2cb9087a6908ca310fa37ee79d46fc9e3a7fc714ec1b639f0",
+      "modification": "Filename mapping only; WAV bytes unchanged."
+    },
+    {
+      "path": "sfx/save05.wav",
+      "source": "https://raw.githubusercontent.com/freedoom/freedoom/3ac019628d70b812ffb722f7f2365771b76a9d29/sounds/dsgetpow.wav",
+      "bytes": 4630,
+      "sha256": "5e91dd25d7c82585bbac762596047ecb0d1667fd0993b7948c791b8e6d919751",
+      "modification": "Filename mapping only; WAV bytes unchanged."
+    },
+    {
+      "path": "sfx/scream02.wav",
+      "source": "https://raw.githubusercontent.com/freedoom/freedoom/3ac019628d70b812ffb722f7f2365771b76a9d29/sounds/dskntdth.wav",
+      "bytes": 15267,
+      "sha256": "79709f356d0622b05139802bd2348ff248455c55456acc99b5374651b5a7c0e4",
+      "modification": "Filename mapping only; WAV bytes unchanged."
+    },
+    {
+      "path": "sfx/scream03.wav",
+      "source": "https://raw.githubusercontent.com/freedoom/freedoom/3ac019628d70b812ffb722f7f2365771b76a9d29/sounds/dsbrsdth.wav",
+      "bytes": 19436,
+      "sha256": "395d8b3aa5577f27f59e6c02fd44d65f0dffa491aaff49fc33ef005ac19b6359",
+      "modification": "Filename mapping only; WAV bytes unchanged."
+    },
+    {
+      "path": "sfx/scream08.wav",
+      "source": "https://raw.githubusercontent.com/freedoom/freedoom/3ac019628d70b812ffb722f7f2365771b76a9d29/sounds/dsbspdth.wav",
+      "bytes": 43268,
+      "sha256": "34e695bbdda0bb70130e623132a280ba3254291056d173259abea5cd416d9d4e",
+      "modification": "Filename mapping only; WAV bytes unchanged."
+    },
+    {
+      "path": "sfx/speed02.wav",
+      "source": "https://raw.githubusercontent.com/freedoom/freedoom/3ac019628d70b812ffb722f7f2365771b76a9d29/sounds/dsitmbk.wav",
+      "bytes": 15682,
+      "sha256": "7131aa29f439579f65983e4365cb704d18ca295cb0f73062b9fbeade0ab55804",
+      "modification": "Filename mapping only; WAV bytes unchanged."
+    },
+    {
+      "path": "sfx/spring03.wav",
+      "source": "https://raw.githubusercontent.com/freedoom/freedoom/3ac019628d70b812ffb722f7f2365771b76a9d29/sounds/dsjump.wav",
+      "bytes": 6072,
+      "sha256": "0429c84496cdad1bc0f68d394e82748ce3a643579f7b105e2b0cd87f90e780fc",
+      "modification": "Filename mapping only; WAV bytes unchanged."
+    },
+    {
+      "path": "sfx/swish01.wav",
+      "source": "https://raw.githubusercontent.com/freedoom/freedoom/3ac019628d70b812ffb722f7f2365771b76a9d29/sounds/dsskeswg.wav",
+      "bytes": 4264,
+      "sha256": "7e8b2314a58b63e43a1eca1051d3f42ac0c7193e9bdb31cfdc7019db436e18c7",
+      "modification": "Filename mapping only; WAV bytes unchanged."
+    },
+    {
+      "path": "sfx/switch01.wav",
+      "source": "https://raw.githubusercontent.com/freedoom/freedoom/3ac019628d70b812ffb722f7f2365771b76a9d29/sounds/dsswtchn.wav",
+      "bytes": 18048,
+      "sha256": "ca11fdc279f3d1ac26a3c125dc077a930147e2a385931da4a392e83cf4b44b0f",
+      "modification": "Filename mapping only; WAV bytes unchanged."
+    },
+    {
+      "path": "sfx/telept01.wav",
+      "source": "https://raw.githubusercontent.com/freedoom/freedoom/3ac019628d70b812ffb722f7f2365771b76a9d29/sounds/dstelept.wav",
+      "bytes": 23794,
+      "sha256": "8b9e60da207b77d269451e8940297e4dcebc6bc7d6a5bb54620a25d19c24039d",
+      "modification": "Filename mapping only; WAV bytes unchanged."
+    },
+    {
+      "path": "sfx/throw01.wav",
+      "source": "https://raw.githubusercontent.com/freedoom/freedoom/3ac019628d70b812ffb722f7f2365771b76a9d29/sounds/dsskeswg.wav",
+      "bytes": 4264,
+      "sha256": "7e8b2314a58b63e43a1eca1051d3f42ac0c7193e9bdb31cfdc7019db436e18c7",
+      "modification": "Filename mapping only; WAV bytes unchanged."
+    },
+    {
+      "path": "sfx/timerfst.wav",
+      "source": "https://raw.githubusercontent.com/freedoom/freedoom/3ac019628d70b812ffb722f7f2365771b76a9d29/sounds/dstink.wav",
+      "bytes": 2750,
+      "sha256": "e67bc00b20868e39a6a4da1b2054ea3bc81d66ce74e86329ec880c3dfa06ad1d",
+      "modification": "Filename mapping only; WAV bytes unchanged."
+    },
+    {
+      "path": "sfx/zap2.wav",
+      "source": "https://raw.githubusercontent.com/freedoom/freedoom/3ac019628d70b812ffb722f7f2365771b76a9d29/sounds/dsplasma.wav",
+      "bytes": 28760,
+      "sha256": "c4819f2be09a75a3db4afdb872ea3966263ad248e8200dd1a09b37c82b737355",
+      "modification": "Filename mapping only; WAV bytes unchanged."
+    },
+    {
+      "path": "sfx/zap3.wav",
+      "source": "https://raw.githubusercontent.com/freedoom/freedoom/3ac019628d70b812ffb722f7f2365771b76a9d29/sounds/dsfirsht.wav",
+      "bytes": 44053,
+      "sha256": "2a78b58368924ec94d74e73fa2202064572244caa94459f6d15dbaafcc0e0b58",
+      "modification": "Filename mapping only; WAV bytes unchanged."
+    }
+  ]
+}
