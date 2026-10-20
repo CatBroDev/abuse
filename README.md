@@ -38,8 +38,9 @@ muted tests and integration protocol. The original native instructions remain
 in [BUILDING.md](BUILDING.md) and [README.upstream.md](README.upstream.md).
 
 The full restoration is on `codex/browser-restoration`. The small native
-sound safety fix is also isolated on `codex/missing-sound-chunk` for upstream
-review; browser packaging and website integration are separate from that patch.
+sound safety fix is isolated on `codex/missing-sound-chunk` and submitted as
+[upstream PR #33](https://github.com/Xenoveritas/abuse/pull/33);
+browser packaging and website integration are separate from that patch.
 
 The deployed version's [corresponding source archive](https://assets.oldgamesarchive.org/games/native/abuse/bfc53c4c82300a4e5c94effca39fe9e93ff1c44375a5856e9105a24c8284604d/source.zip)
 has SHA-256
